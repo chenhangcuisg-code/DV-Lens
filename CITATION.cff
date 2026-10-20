@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use DV-Lens, please cite the paper below."
+type: software
+title: "DV-Lens: Revealing the Functional Organization of Language Model Parameters"
+authors:
+  - family-names: Cui
+    given-names: Chenhang
+  - family-names: Yu
+    given-names: Jian
+  - family-names: Miao
+    given-names: Shuyi
+  - family-names: Liu
+    given-names: Xiaohao
+  - family-names: Huang
+    given-names: Rui
+  - family-names: Shen
+    given-names: Fei
+  - family-names: Zhang
+    given-names: An
+  - family-names: Chua
+    given-names: Tat-Seng
+url: "https://github.com/chenhangcuisg-code/DV-Lens"
+repository-code: "https://github.com/chenhangcuisg-code/DV-Lens"
+license: BSD-3-Clause-Clear
+preferred-citation:
+  type: article
+  title: "DV-Lens: Revealing the Functional Organization of Language Model Parameters"
+  authors:
+    - family-names: Cui
+      given-names: Chenhang
+    - family-names: Yu
+      given-names: Jian
+    - family-names: Miao
+      given-names: Shuyi
+    - family-names: Liu
+      given-names: Xiaohao
+    - family-names: Huang
+      given-names: Rui
+    - family-names: Shen
+      given-names: Fei
+    - family-names: Zhang
+      given-names: An
+    - family-names: Chua
+      given-names: Tat-Seng
+  journal: arXiv
+  year: 2026
+  url: "https://arxiv.org/abs/2610.04489"
+  doi: "10.48550/arXiv.2610.04489"

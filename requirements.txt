@@ -1,0 +1,4 @@
+numpy>=1.24
+transformers>=5.5,<6
+huggingface_hub>=1.0
+jlens @ git+https://github.com/anthropics/jacobian-lens@581d398613e5602a5af361e1c34d3a92ea82ba8e
