@@ -2,15 +2,14 @@
 
 **2 minutes 48 seconds · silent film with English captions**
 
-[![Play the DV-Lens introduction](../assets/video/dvlens_promo_poster.jpg)](https://github.com/chenhangcuisg-code/DV-Lens/blob/main/assets/video/dvlens_promo_720p.mp4)
+[![Play the DV-Lens introduction](../assets/video/dvlens_promo_poster.jpg)](https://chenhangcuisg-code.github.io/DV-Lens/watch.html)
 
 ## Watch
 
-- **[Play / open the 720p video](https://github.com/chenhangcuisg-code/DV-Lens/blob/main/assets/video/dvlens_promo_720p.mp4)** — smaller file for mobile viewing.
-- **[Open the 1080p video](https://github.com/chenhangcuisg-code/DV-Lens/blob/main/assets/video/dvlens_promo_1080p.mp4)** — full resolution.
+- **[▶ Play in the browser](https://chenhangcuisg-code.github.io/DV-Lens/watch.html)** — 1080p, starts right away.
 - [Download 720p](https://raw.githubusercontent.com/chenhangcuisg-code/DV-Lens/main/assets/video/dvlens_promo_720p.mp4) · [Download 1080p](https://raw.githubusercontent.com/chenhangcuisg-code/DV-Lens/main/assets/video/dvlens_promo_1080p.mp4)
 
-If the GitHub preview does not play on your device, use a download link.
+GitHub cannot preview MP4 files, so the player above is hosted on GitHub Pages.
 
 ## Chapters
 

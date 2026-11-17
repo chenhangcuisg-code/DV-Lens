@@ -10,7 +10,7 @@ Chenhang Cui, Jian Yu, Shuyi Miao, Xiaohao Liu, Rui Huang, Fei Shen, An Zhang, T
 <img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white" alt="Python 3.10 or later">
 <a href="https://github.com/chenhangcuisg-code/DV-Lens/actions/workflows/checks.yml"><img src="https://github.com/chenhangcuisg-code/DV-Lens/actions/workflows/checks.yml/badge.svg" alt="Method checks"></a>
 
-**[Paper](https://arxiv.org/abs/2610.04489)** · **[Video](docs/VIDEO.md)** · **[Method](#method)** · **[Quick start](#quick-start)** · **[Outputs](#outputs)** · **[Release scope](#release-scope)** · **[Citation](#citation)**
+**[Paper](https://arxiv.org/abs/2610.04489)** · **[▶ Video](https://chenhangcuisg-code.github.io/DV-Lens/watch.html)** · **[Method](#method)** · **[Quick start](#quick-start)** · **[Outputs](#outputs)** · **[Release scope](#release-scope)** · **[Citation](#citation)**
 
 </div>
 
@@ -27,9 +27,9 @@ This repository releases the **main method implementation**: dense and sketched 
 
 ## Video
 
-[![DV-Lens in Motion — 2:48 introduction](assets/video/dvlens_promo_poster.jpg)](docs/VIDEO.md)
+[![DV-Lens in Motion — 2:48 introduction. Click to play.](assets/video/dvlens_promo_poster.jpg)](https://chenhangcuisg-code.github.io/DV-Lens/watch.html)
 
-**[Watch the introduction](docs/VIDEO.md)** · [720p MP4](assets/video/dvlens_promo_720p.mp4) · [1080p MP4](assets/video/dvlens_promo_1080p.mp4)
+**[▶ Play the introduction](https://chenhangcuisg-code.github.io/DV-Lens/watch.html)** · [Chapters](docs/VIDEO.md) · [720p MP4](assets/video/dvlens_promo_720p.mp4) · [1080p MP4](assets/video/dvlens_promo_1080p.mp4)
 
 The original silent, captioned film introduces the readout, validation, parameter interventions, and DV-Complexity. Its final repository-tour chapters show the earlier research archive; this public repository releases the main method code as described in [Release scope](#release-scope).
 
